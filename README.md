@@ -5,7 +5,7 @@ A complete archive of every [Wordle](https://www.nytimes.com/games/wordle/index.
 ## Structure
 
 ```
-wordle_words/
+master/
 ├── 2021/
 │   ├── June/
 │   │   └── 19.txt   ← CIGAR (the first ever Wordle word!)
